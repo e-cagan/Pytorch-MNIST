@@ -49,18 +49,14 @@ This repository contains an example implementation of a neural network for class
 
 ```
 mnist_pytorch/
-├── data/
-│   ├── FashionMNIST/
-│   └── ...
-├── models/
-│   ├── mnist_cnn.py
-│   └── ...
-├── notebooks/
-│   ├── mnist_exploration.ipynb
-│   └── ...
+├── LICENSE
+├── README.md
+├── data_loader.py
+├── model.py
+├── evaluate.py
 ├── requirements.txt
 ├── train.py
-└── visualize.py
+└── main.py
 ```
 
 ## License
@@ -76,6 +72,5 @@ Contributions are welcome! Please submit a pull request or open an issue to disc
 ## Contact
 For any questions or feedback, please open an issue on the GitHub repository or contact the author at
 [
-    your.email@example.com
+    emincaganapaydin@gmail.com
 ].
-```
